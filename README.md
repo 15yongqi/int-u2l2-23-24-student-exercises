@@ -1,6 +1,6 @@
 # Lesson 2.2: HTML Tags w/ Attributes
 
-### 🎯 Objectives
+### 🎯 Objectives 
 - Create HTML elements with attributes to add links and images to their pages.
 
 ## Table of Contents
@@ -19,9 +19,11 @@
 
 For today's activity, you will be editing a website about sloths which is missing some information. Open the index.html file and complete these tasks:
 
-- Create an `<h1>` tag which says “Sloths!”
+- Create an `<h1>tag which says “Sloths!”
 - Create a `<p>` tag which says “Sloths are the slowest animal in the world”
 
+<h1>Sloths!</h1>
+<p>Sloths are the slowest animal in the worl.Womp,womp</p>
 ## Anchor and Image Tags
 
 Wow, you did great with those `<h1>` and `<p>` tags! Now, let's have some fun with other cool tags – `<a href…>` and `<img src…>` tags. 
